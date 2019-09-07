@@ -1,6 +1,8 @@
 {
     "name": "lsshu/framework",
     "description": "The Lsshu Framework",
+    "keywords": ["lsshu","framework","admin"],
+    "homepage": "https://github.com/lsshu/framework",
     "license": "MIT",
     "authors": [
         {
