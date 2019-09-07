@@ -1,0 +1,19 @@
+{
+    "name": "lsshu/framework",
+    "description": "The Lsshu Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lsshu",
+            "email": "admin@lsshu.cn"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lsshu\\Framework\\": "src"
+        }
+    }
+}
